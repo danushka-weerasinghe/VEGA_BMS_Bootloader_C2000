@@ -58,7 +58,7 @@
 		</variable>
 		<variable>
 			<name>INSTALLROOT_C2000WARE1</name>
-			<value>$%7BTI_PRODUCTS_DIR%7D/c2000/C2000Ware_5_02_00_00</value>
+			<value>$%7BTI_PRODUCTS_DIR%7D/c2000/C2000Ware_6_00_01_00</value>
 		</variable>
 		<variable>
 			<name>INSTALLROOT_F2806x</name>
