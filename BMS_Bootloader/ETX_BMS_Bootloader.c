@@ -296,7 +296,7 @@ void CAN_Init()
 
     ECanaShadow.CANBTC.all = 0;
 
-    ECanaShadow.CANBTC.bit.BRPREG = 9; //9 = 250kbps, 4 = 500kbps
+    ECanaShadow.CANBTC.bit.BRPREG = 4; //9 = 250kbps, 4 = 500kbps
     ECanaShadow.CANBTC.bit.TSEG2REG = 2;
     ECanaShadow.CANBTC.bit.TSEG1REG = 13;
 
