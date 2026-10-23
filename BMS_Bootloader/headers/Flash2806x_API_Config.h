@@ -80,8 +80,9 @@ extern "C" {
 //             Uncomment the line:  #define CPU_RATE  12.500L  
 //
 #ifndef CPU_RATE
-//#define CPU_RATE     12.500L   // for a 80MHz CPU clock speed (SYSCLKOUT)
-#define CPU_RATE   16.667L   // for a 60MHz CPU clock speed (SYSCLKOUT)
+#define CPU_RATE   11.111L   // for a 60MHz CPU clock speed   (SYSCLKOUT)
+//#define CPU_RATE   12.500L   // for a 80MHz CPU clock speed  (SYSCLKOUT)
+//#define CPU_RATE   16.667L   // for a 60MHz CPU clock speed  (SYSCLKOUT)
 //#define CPU_RATE   20.000L   // for a 50MHz CPU clock speed  (SYSCLKOUT)
 //#define CPU_RATE   25.000L   // for a 40MHz CPU clock speed  (SYSCLKOUT)
 //#define CPU_RATE   33.333L   // for a 30MHz CPU clock speed  (SYSCLKOUT)
